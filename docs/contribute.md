@@ -16,7 +16,7 @@
 
 ## 2. リポジトリをフォークする（Fork）
 
-1. [Miniblox Wiki リポジトリ](https://github.com/username/miniblox-wiki) にアクセス
+1. [Miniblox Wiki リポジトリ](https://github.com/hayato040404/miniblox-wiki) にアクセス
 2. 右上の「Fork」ボタンをクリック
 3. 自分のアカウントにコピーが作られます
 
@@ -36,7 +36,7 @@
 
 ```bash
 # リポジトリをクローン
-git clone https://github.com/username/miniblox-wiki.git
+git clone https://github.com/hayato040404/miniblox-wiki.git
 cd miniblox-wiki
 
 # ファイルを編集
