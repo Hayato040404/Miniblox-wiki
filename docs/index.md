@@ -1,4 +1,4 @@
-# Miniblox 日本Wikiへようこそ
+# Miniblox 日本Wiki
 
 Miniblox の情報をまとめた日本語 Wiki です。  
 この Wiki は誰でも貢献できます。編集方法は [貢献する方法](contribute.md) をご覧ください。
