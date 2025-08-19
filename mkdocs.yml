@@ -1,0 +1,14 @@
+site_name: Miniblox 日本Wiki
+site_url: https://hayato040404.github.io/miniblox-wiki/
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.expand
+    - toc.integrate
+
+plugins:
+  - search
+  - awesome-pages
