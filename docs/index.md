@@ -11,15 +11,19 @@ Miniblox の情報をまとめた日本語 Wiki です。
 - [基本操作](play/index.md)
 - [操作方法の詳細](play/controls.md)
 
-### キャラクター
-- [キャラクター一覧](characters/index.md)
-- [スキン・特殊能力](characters/skins.md)
+### コマンド
+- [コマンド一覧](characters/index.md)
+- [具体的な使い方](characters/skins.md)
 
-### イベント
-- [イベント一覧](events/index.md)
-- [季節限定イベント](events/seasonal.md)
+### ミニゲーム
+- [ミニゲーム一覧](events/index.md)
+- [ミニゲーム攻略](events/seasonal.md)
+### 課題
+ComingSoon
 
-### その他
+### 特別なブロック
+Coning Soon
+### そのた
 - [Markdown 入門ガイド](md-guide.md)
 - [貢献する方法](contribute.md)
 
