@@ -1,7 +1,10 @@
 # Markdown 入門ガイド
 
 このページでは、Miniblox Wiki で使える Markdown の書き方を詳しく解説します。
+
+
 ぜひ[こちら](https://hayato040404.github.io/markdown)でmarkdownを簡単に生成してみてください！！
+
 ---
 
 ## 1. 見出し
